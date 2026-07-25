@@ -1,13 +1,11 @@
 # 📊 HR Analytics Dashboard
 
-<p align="center">
-  <img src="dashboard.jpg" alt="HR Analytics Dashboard" width="100%">
-</p>
+
+<h1 align="center">📊 HR Analytics Dashboard</h1>
 
 <p align="center">
-  <b>Interactive HR Analytics Dashboard built using Power BI</b>
+Interactive Power BI Dashboard for Workforce & Employee Attrition Analysis
 </p>
-
 ---
 
 ## 📌 Project Overview

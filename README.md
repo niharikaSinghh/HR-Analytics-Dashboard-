@@ -149,9 +149,7 @@ HR-Analytics-Dashboard
 
 **Aspiring Data Analyst**
 
-📧 Email: *your-email@example.com*
-
-🔗 LinkedIn: *Add your LinkedIn profile link*
+📧 Email: *your-email@example.com
 
 🐙 GitHub: https://github.com/niharikaSinghh
 

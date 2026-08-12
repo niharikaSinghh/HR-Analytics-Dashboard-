@@ -1,160 +1,230 @@
-
-
-
 <h1 align="center">📊 HR Analytics Dashboard</h1>
 
 <p align="center">
-Interactive Power BI Dashboard for Workforce & Employee Attrition Analysis
+  <strong>Interactive Power BI Dashboard for Workforce, Attrition & Employee Insights</strong>
 </p>
+
+<p align="center">
+
+<a href="https://github.com/niharikaSinghh/HR-Analytics-Dashboard-">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/niharikaSinghh">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-The **HR Analytics Dashboard** is an interactive Power BI project designed to analyze workforce performance, employee attrition, salary trends, and job satisfaction.
+The **HR Analytics Dashboard** is an interactive **Power BI Business Intelligence project** designed to analyze workforce composition, employee attrition, salary patterns, job satisfaction, and departmental performance.
 
-It helps HR teams and business leaders identify workforce patterns, understand employee behavior, and make informed business decisions using data visualization.
+The dashboard transforms employee data into meaningful HR insights that can help organizations understand:
+
+- 👥 Workforce composition
+- 🚪 Employee attrition
+- 💰 Salary patterns
+- 🏢 Department performance
+- 💼 Job role distribution
+- 😊 Employee satisfaction
+- 📊 Workforce trends
+
+The project demonstrates how **data analytics and visualization can support HR and business decision-making**.
 
 ---
 
-## 🎯 Objectives
+# 🎯 Business Problem
+
+Employee data contains valuable information about workforce behavior, but raw employee records can be difficult to analyze.
+
+HR teams need to understand questions such as:
+
+> How many employees are currently in the organization?
+
+> Which departments have higher attrition?
+
+> Which job roles experience greater employee turnover?
+
+> How does salary vary across different employee groups?
+
+> What is the overall employee satisfaction level?
+
+> Which workforce segments require more attention?
+
+This dashboard provides an interactive analytical solution to explore these questions.
+
+---
+
+# 🎯 Project Objectives
+
+The main objectives of this project are:
 
 - Analyze employee attrition trends
 - Monitor workforce demographics
-- Track employee satisfaction
-- Compare departments and job roles
-- Support HR decision-making through analytics
+- Understand employee distribution
+- Analyze departmental performance
+- Compare different job roles
+- Track salary patterns
+- Evaluate employee satisfaction
+- Build interactive HR KPIs
+- Identify workforce patterns
+- Support data-driven HR decisions
 
 ---
 
-## 📊 Dashboard KPIs
+# 📊 Dashboard KPIs
 
-- 👥 Total Employees
-- 🚪 Attrition Count
-- 🎂 Average Age
-- 💰 Average Salary
-- 😊 Job Satisfaction Score
+The dashboard focuses on important workforce metrics.
+
+| KPI | Purpose |
+|---|---|
+| 👥 Total Employees | Measures overall workforce size |
+| 🚪 Attrition Count | Measures number of employees who left |
+| 📉 Attrition Rate | Measures employee turnover |
+| 🎂 Average Age | Shows workforce age profile |
+| 💰 Average Salary | Measures average employee compensation |
+| 😊 Job Satisfaction | Measures employee satisfaction |
+| 🏢 Department Workforce | Compares employee distribution |
+| 💼 Job Role Distribution | Shows workforce across roles |
 
 ---
 
-## 📈 Dashboard Features
+# 📈 Dashboard Features
 
-### Employee Analysis
+## 👥 Employee Analysis
+
+The dashboard provides insights into:
+
 - Total Employees
 - Average Age
 - Average Salary
+- Employee Distribution
 - Job Satisfaction
+- Department Distribution
+- Job Role Distribution
 
-### Attrition Analysis
+---
+
+## 🚪 Attrition Analysis
+
+The dashboard analyzes employee turnover through:
+
+- Overall Attrition
+- Attrition Rate
 - Department-wise Attrition
-- Job Role Analysis
-- Gender Analysis
-- Education Field Analysis
-- Age Group Analysis
-- Overtime Analysis
+- Job Role-wise Attrition
+- Employee demographics
+- Workforce segments
 
-### Interactive Filters
+This helps identify areas where employee retention may require attention.
+
+---
+
+## 🏢 Department Analysis
+
+Employees can be analyzed across different departments to understand:
+
+- Workforce size
+- Attrition
+- Employee distribution
+- Satisfaction patterns
+- Salary differences
+
+---
+
+## 💼 Job Role Analysis
+
+The dashboard enables comparison across different job roles.
+
+This helps identify:
+
+- Roles with higher employee counts
+- Roles with higher attrition
+- Salary differences
+- Satisfaction patterns
+
+---
+
+# 🔍 Key Analytical Areas
+
+### 👤 Workforce Demographics
+
+Analysis of employee characteristics such as:
+
+- Age
+- Gender
 - Department
-- Education Field
 - Job Role
+- Experience
+- Education
+
+### 💰 Salary Analysis
+
+Salary information can be used to understand:
+
+- Average salary
+- Salary distribution
+- Salary differences across roles
+- Salary patterns across departments
+
+### 😊 Employee Satisfaction
+
+The dashboard analyzes employee satisfaction to understand workforce sentiment and identify areas requiring attention.
+
+### 🚪 Employee Attrition
+
+Attrition analysis helps identify workforce segments where employee turnover is comparatively higher.
 
 ---
 
-## 🛠️ Tech Stack
+# 💡 Business Insights
 
-- Microsoft Power BI
-- DAX
-- Power Query
-- Microsoft Excel
+The dashboard is designed to help HR teams identify patterns such as:
 
----
+- 📊 Departments with comparatively higher attrition
+- 💼 Job roles experiencing greater employee turnover
+- 👥 Workforce distribution across departments
+- 💰 Salary differences across employee groups
+- 😊 Employee satisfaction patterns
+- 📉 Workforce segments requiring retention attention
 
-## 📂 Dataset
+These insights can support decisions related to:
 
-**IBM HR Analytics Employee Attrition & Performance Dataset**
-
-The dataset contains information about employee demographics, salary, education, job roles, attrition, satisfaction, and overtime.
-
----
-
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="dashboard.jpg" alt="Dashboard Preview" width="100%">
-</p>
+- Employee retention
+- Workforce planning
+- Compensation strategy
+- Hiring strategy
+- Department planning
+- Employee engagement
+- HR performance monitoring
 
 ---
 
-## 📊 Key Insights
-
-- Department-wise employee distribution
-- Employee attrition trends
-- Gender-based workforce analysis
-- Age group analysis
-- Education field analysis
-- Overtime impact on attrition
-- Job satisfaction analysis
-
----
-
-## 💼 Business Impact
-
-This dashboard helps organizations:
-
-- Improve employee retention
-- Identify high-risk attrition areas
-- Monitor workforce performance
-- Support HR planning
-- Make data-driven business decisions
-
----
-
-## 📁 Repository Structure
+# 🔄 Data Analytics Workflow
 
 ```text
-HR-Analytics-Dashboard
-│
-├── README.md
-├── dashboard.jpg
-├── HR_Analytics.pbix
-└── HR_Analytics_Dataset.xlsx
-```
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Open **HR_Analytics.pbix** in Microsoft Power BI Desktop.
-3. Load or refresh the dataset.
-4. Explore the dashboard using the available filters.
-
----
-
-## 🧠 Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX Calculations
-- Dashboard Design
-- Business Intelligence
-- HR Analytics
-- Data Visualization
-
----
-
-## 👩‍💻 Created By
-
-### **Niharika**
-
-**Aspiring Data Analyst**
-
-📧 Email: *your-email@example.com
-
-🐙 GitHub: https://github.com/niharikaSinghh
-
----
-
-<p align="center">
-⭐ If you found this project helpful, consider giving it a Star!
-</p>
+                 RAW HR DATA
+                       │
+                       ▼
+                 DATA CLEANING
+                       │
+                       ▼
+              DATA TRANSFORMATION
+                       │
+                       ▼
+                 POWER BI MODEL
+                       │
+                       ▼
+                  DAX / KPIs
+                       │
+                       ▼
+              INTERACTIVE DASHBOARD
+                       │
+                       ▼
+               HR DATA ANALYSIS
+                       │
+                       ▼
+              BUSINESS INSIGHTS
